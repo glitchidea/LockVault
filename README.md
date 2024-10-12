@@ -26,7 +26,7 @@ This project is a comprehensive Python tool designed for file encryption and dec
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/glitchidea/repository.git
+   git clone https://github.com/glitchidea/LockVault.git
    ```
 
 2. **Install Dependencies**:
@@ -40,7 +40,7 @@ This project is a comprehensive Python tool designed for file encryption and dec
 Run the tool from the command line:
 
 ```bash
-python tool.py <file_path> <method> [options]
+python LockVault.py <file_path> <method> [options]
 ```
 
 ### Arguments
