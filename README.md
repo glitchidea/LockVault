@@ -26,7 +26,7 @@ This project is a comprehensive Python tool designed for file encryption and dec
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/repository.git
+   git clone https://github.com/glitchidea/repository.git
    ```
 
 2. **Install Dependencies**:
